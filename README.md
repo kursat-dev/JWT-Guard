@@ -4,7 +4,7 @@
 
 **Advanced Client-Side JWT Security Analyzer**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Node.js](https://img.shields.io/badge/Node.js-v18+-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-v19-blue.svg)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-Fast-purple.svg)](https://vitejs.dev/)
@@ -88,10 +88,4 @@ Access the application at `http://localhost:5173`.
 
 ## 📝 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-<div align="center">
-  <p>Made with ❤️ by Antigravity</p>
-</div>
+Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
