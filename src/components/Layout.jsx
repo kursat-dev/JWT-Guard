@@ -17,7 +17,7 @@ export default function Layout({ children }) {
                         </h1>
                     </div>
                     <div className="flex items-center gap-4">
-                        <a href="https://github.com/kursat-dev/jwt-guard" className="text-slate-400 hover:text-white transition-colors">
+                        <a href="https://github.com/kursat-dev/JWT-Guard" className="text-slate-400 hover:text-white transition-colors">
                             <Github className="w-5 h-5" />
                         </a>
                     </div>
