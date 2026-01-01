@@ -51,7 +51,7 @@ To get a local copy up and running, follow these simple steps.
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/jwt-guard.git
+git clone https://github.com/kursat-dev/JWT-Guard.git
 cd jwt-guard
 ```
 
