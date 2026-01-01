@@ -12,7 +12,7 @@ export const analyzeJWT = async (token) => {
             expiration: null,
         }
     };
-
+       
     if (!token) return result;
 
     try {
